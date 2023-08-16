@@ -1,7 +1,7 @@
 
-# Talk-A-Tive
+# SpeedyChat
 
-Talk-a-tive is a Full Stack Chatting App.
+SpeedyChat is a Full Stack Real Time Chat Web Application.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
